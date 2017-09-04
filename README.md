@@ -23,4 +23,4 @@ Note that this requires Python _2_.
 
 # Planned features
 
-Extract not only the _purple text_ and the sections headers, but also allow for paragraph extraction near the text.
+Extract not only the _purple text_ and the section headers, but also allow for paragraph extraction near the text.
