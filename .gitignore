@@ -3,6 +3,7 @@
 *.pdf
 *.png
 *.txt
+*.html
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
